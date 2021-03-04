@@ -33,17 +33,17 @@ For our project we decided to use Linear Regression. We wanted to make a useful 
 
 ![image](https://user-images.githubusercontent.com/70181086/110032307-fd206800-7d05-11eb-9da3-d530c0dbb08f.png)
 
-The county with the highest median sales price is Fayette county at $266,663. The county with the lowest median sales price is Clayton county at $74,763. 
+The county with the highest median sales price is Fayette county at $266,663 which is 32.8% minorities. The county with the lowest median sales price is Clayton county at $74,763 which is 87.7% minorities. 
 
 ![image](https://user-images.githubusercontent.com/70181086/110032463-2a6d1600-7d06-11eb-891d-bf1899c545e5.png)
 
 
-The cities with the highest median sales prices are Alpharetta, Roswell, and Peachtree City at $345,890, $335,513, and $325,960 respectively. 
+The cities with the highest median sales prices are Alpharetta, Roswell, and Peachtree City at $345,890, $335,513, and $325,960 respectively and average 31.8% minorities. 
 
 ![image](https://user-images.githubusercontent.com/70181086/110032537-3f49a980-7d06-11eb-93d0-eea76950c028.png)
 
 
-The cities with the lowest median sales prices are all in Clayton county - Riverdale, Forest Park, and Conley at $72,858, $47,050, and $27,000 respectively. 
+The cities with the lowest median sales prices are all in Clayton county - Riverdale, Forest Park, and Conley at $72,858, $47,050, and $27,000 respectively and average 90.3% minorities. 
 
 ![image](https://user-images.githubusercontent.com/70181086/110032614-55f00080-7d06-11eb-860d-59323281d783.png)
 
