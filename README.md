@@ -72,13 +72,13 @@ The zip code with by far the highest median sales price is 30327 which covers We
 ![image](https://user-images.githubusercontent.com/70181086/110038620-f990df00-7d0d-11eb-8249-991dbaac5acc.png)
 
 
-4) We found that there was not much of a change in the number of houses listed and the price-to-rent ratio in the zip codes where Turner Field and SunTrust are located during their closings and openings respectively.
+4) We found that there was not much of a change in the number of houses listed and the price-to-rent ratio in the zip codes near where Turner Field and SunTrust are located during their closings and openings respectively.
 
 ![image](https://user-images.githubusercontent.com/70181086/110038751-2f35c800-7d0e-11eb-8f80-d9fc95ec066d.png)
 
 ![image](https://user-images.githubusercontent.com/70181086/110038771-365cd600-7d0e-11eb-859b-92cb4e2a7aea.png)
 
-Suprisingly, we found that the median listing price in the zip code where Turner Field was located increased significantly from the time it closed to the most recent data point we had - from September 2016 to March 2018, the median listing price increased from $305,000 to $388,000. That is likely due to the overall growth of Atlanta and revitalization efforts of the area around Turner Field. During the same timeframe, the median listing price of the zip code where SunTrust park is located grew by a slightly less amount of $1,249,000 to $1,296,500, likely because it is already a highly developed area with some of the most lavish homes in Atlanta.
+Suprisingly, we found that the median listing price in the zip code where Turner Field was located increased significantly from the time it closed to the most recent data point we had - from September 2016 to March 2018, the median listing price increased from $305,000 to $388,000. That is likely due to the overall growth of Atlanta and revitalization efforts of the area around Turner Field. During the same timeframe, the median listing price of a zip code near SunTrust park grew by a slightly less amount of $1,249,000 to $1,296,500, likely because it is already a highly developed area with some of the most lavish homes in Atlanta.
 
 ![image](https://user-images.githubusercontent.com/70181086/110039415-2e516600-7d0f-11eb-9de9-c192dc0f1030.png)
 
