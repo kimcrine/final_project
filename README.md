@@ -52,9 +52,9 @@ The zip code with by far the highest median sales price is 30327 which covers We
 
 2) We found that there is a moderate negative correlation between the percentage of minorities in a given zip code and the median sales prices and rental prices of houses in the zip code, meaning the higher the percentage of minorities in the zip code, the lower the median sales price or rental price of houses in the zip code on average. In addition, we found that zip codes that are majority minorities median sales price was over $110,000 less than zip codes that are majority whites - $151,775 majority minorities vs. $264,000 for majority whites. Similarly, zip codes that are majority minorities have median rental prices much lower on average than zip codes that are majority white - $1,395 and $1,800 respectively.
 
-![image](https://user-images.githubusercontent.com/70181086/110032748-833cae80-7d06-11eb-9fc3-34d7e317caf1.png)
+![image](https://user-images.githubusercontent.com/70181086/110039803-c51e2280-7d0f-11eb-9e92-0c8113f62033.png)
 
-![image](https://user-images.githubusercontent.com/70181086/110032769-8899f900-7d06-11eb-84b4-2b766606045d.png)
+![image](https://user-images.githubusercontent.com/70181086/110039823-ccddc700-7d0f-11eb-833e-173a94f1a5bd.png)
 
 ![image](https://user-images.githubusercontent.com/70181086/110038684-11686300-7d0e-11eb-9858-717617f0fdbe.png)
 
