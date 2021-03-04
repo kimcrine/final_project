@@ -1,4 +1,4 @@
-# Welcome to our [Housing Predictor application](https://atlanta-housing.herokuapp.com/).
+# Welcome to our [Housing Predictor Application](https://atlanta-housing.herokuapp.com/).
 
 In this app, we will be building a simple machine learning model using the Metro Atlanta dataset.
 ![image](https://user-images.githubusercontent.com/70181086/110031592-1bd22f00-7d05-11eb-92f8-0b218aafdb02.png)
@@ -56,7 +56,8 @@ The zip code with by far the highest median sales price is 30327 which covers We
 
 ![image](https://user-images.githubusercontent.com/70181086/110032769-8899f900-7d06-11eb-84b4-2b766606045d.png)
 
-![image](https://user-images.githubusercontent.com/70181086/110033157-065e0480-7d07-11eb-9bdc-a6a9444fc92b.png)
+![Correlation_Between_%_Minority_and_Median_Sales_Price](https://user-images.githubusercontent.com/70181086/110036393-edefe900-7d0a-11eb-83bb-9ad0cde6a34b.png)
+
 
 ![image](https://user-images.githubusercontent.com/70181086/110033263-2d1c3b00-7d07-11eb-8349-20b01653b865.png)
 
