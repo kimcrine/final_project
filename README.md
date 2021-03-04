@@ -61,7 +61,7 @@ The zip code with by far the highest median sales price is 30327 which covers We
 ![image](https://user-images.githubusercontent.com/70181086/110038702-188f7100-7d0e-11eb-8f7e-7d3c0abb41c1.png)
 
 
-3) We found that there is a moderate negative correlation between the level of crime in a given zip code and the median listing price in the zip codes. This cause of this could either be due to less demand in higher crime areas, or due to the fact that zip codes with lower priced houses have fewer gated communities and less house security. 
+3) We found that there is a moderate negative correlation between the level of crime in a given zip code and the median listing price in the zip codes. The cause of this could either be due to less demand in higher crime areas, or due to the fact that zip codes with lower priced houses have fewer gated communities and less house security. 
 
 ![image](https://user-images.githubusercontent.com/70181086/110034987-1676e380-7d09-11eb-9ce4-6765cb869610.png)
 
