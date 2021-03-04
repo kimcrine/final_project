@@ -56,10 +56,10 @@ The zip code with by far the highest median sales price is 30327 which covers We
 
 ![image](https://user-images.githubusercontent.com/70181086/110032769-8899f900-7d06-11eb-84b4-2b766606045d.png)
 
-![Correlation_Between_%_Minority_and_Median_Sales_Price](https://user-images.githubusercontent.com/70181086/110036393-edefe900-7d0a-11eb-83bb-9ad0cde6a34b.png)
+![image](https://user-images.githubusercontent.com/70181086/110038684-11686300-7d0e-11eb-9858-717617f0fdbe.png)
 
+![image](https://user-images.githubusercontent.com/70181086/110038702-188f7100-7d0e-11eb-8f7e-7d3c0abb41c1.png)
 
-![image](https://user-images.githubusercontent.com/70181086/110033263-2d1c3b00-7d07-11eb-8349-20b01653b865.png)
 
 3) We found that there is a moderate negative correlation between the level of crime in a given zip code and the median listing price in the zip codes. This cause of this could either be due to less demand in higher crime areas, or due to the fact that zip codes with lower priced houses have fewer gated communities and less house security. 
 
@@ -67,14 +67,24 @@ The zip code with by far the highest median sales price is 30327 which covers We
 
 ![image](https://user-images.githubusercontent.com/70181086/110035033-255d9600-7d09-11eb-8d78-409cdc850469.png)
 
-![image](https://user-images.githubusercontent.com/70181086/110038449-c3ebf600-7d0d-11eb-9b87-630eb577eb93.png)
+![image](https://user-images.githubusercontent.com/70181086/110038603-f138a400-7d0d-11eb-943b-d19d1ee44423.png)
 
-![image](https://user-images.githubusercontent.com/70181086/110038483-ccdcc780-7d0d-11eb-9ed6-75a3b5276b46.png)
+![image](https://user-images.githubusercontent.com/70181086/110038620-f990df00-7d0d-11eb-8249-991dbaac5acc.png)
 
 
 4) We found that there was not much of a change in the number of houses listed and the price-to-rent ratio in the zip codes where Turner Field and SunTrust are located during their closings and openings respectively.
 
+![image](https://user-images.githubusercontent.com/70181086/110038751-2f35c800-7d0e-11eb-8f80-d9fc95ec066d.png)
 
+![image](https://user-images.githubusercontent.com/70181086/110038771-365cd600-7d0e-11eb-859b-92cb4e2a7aea.png)
+
+Suprisingly, we found that the median listing price in the zip code where Turner Field was located increased significantly from the time it closed to the most recent data point we had - from September 2016 to March 2018, the median listing price increased from $305,000 to $388,000. That is likely due to the overall growth of Atlanta and revitalization efforts of the area around Turner Field. During the same timeframe, the median listing price of the zip code where SunTrust park is located grew by a slightly less amount of $1,249,000 to $1,296,500, likely because it is already a highly developed area with some of the most lavish homes in Atlanta.
+
+![image](https://user-images.githubusercontent.com/70181086/110039415-2e516600-7d0f-11eb-9de9-c192dc0f1030.png)
+
+The number of listings with price cuts near SunTrust park showed a significant dip in the months before it opened. However, they showed a similar drop one year later. This indicates that the price cuts are likely seasonal rather than having anything due to the opening of the new stadium.
+
+![image](https://user-images.githubusercontent.com/70181086/110039619-7ff9f080-7d0f-11eb-9684-19beb29c9baa.png)
 
 5) We found that number of bedrooms strongly correlated with the Rent Price. Square footage had a small correlation, and Days on Zillow did not correlate very much at all with the rent price.
 
