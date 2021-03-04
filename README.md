@@ -23,7 +23,7 @@ After cleaning, we analyzed the data to answer various questions. The questions 
 
 ## Machine Learning Model
 
-For our project we decided to use Linear Regression. We chose this model because it was the most accurate model with our data with the highest r2 score.
+For our project we decided to use Linear Regression. We wanted to make a useful tool for calculating possible rental income that took into account the initial cost of the property (in addition to location). Due to the relationship between purchase price and rent, we decided a Linear Regression would be an effective tool for predictions.
 
 ## Findings
 
