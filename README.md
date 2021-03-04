@@ -48,7 +48,7 @@ The cities with the lowest median sales prices are all in Clayton county - River
 ![image](https://user-images.githubusercontent.com/70181086/110032614-55f00080-7d06-11eb-860d-59323281d783.png)
 
 
-The zip code with by far the highest median sales price is 30327 which covers West Buckhead at $709,450. The zip code with the lowest median sales price is 30288 which covers the city of Conley at $27,000.
+The zip code with by far the highest median sales price is 30327 which covers West Buckhead at $709,450 which is 16.5% minorities. The zip code with the lowest median sales price is 30288 which covers the city of Conley at $27,000 and is 91.8% minorities.
 
 2) We found that there is a moderate negative correlation between the percentage of minorities in a given zip code and the median sales prices and rental prices of houses in the zip code, meaning the higher the percentage of minorities in the zip code, the lower the median sales price or rental price of houses in the zip code on average. In addition, we found that zip codes that are majority minorities median sales price was over $110,000 less than zip codes that are majority whites - $151,775 majority minorities vs. $264,000 for majority whites. Similarly, zip codes that are majority minorities have median rental prices much lower on average than zip codes that are majority white - $1,395 and $1,800 respectively.
 
