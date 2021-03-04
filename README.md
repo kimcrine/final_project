@@ -1,8 +1,7 @@
 # Welcome to our [Housing Predictor application](https://atlanta-housing.herokuapp.com/).
 
 In this app, we will be building a simple machine learning model using the Metro Atlanta dataset.
-
-images/Rental_Price_Predictor.png![image](https://user-images.githubusercontent.com/70181086/110031592-1bd22f00-7d05-11eb-92f8-0b218aafdb02.png)
+[image](https://user-images.githubusercontent.com/70181086/110031592-1bd22f00-7d05-11eb-92f8-0b218aafdb02.png)
 
 ## Introduction
 
