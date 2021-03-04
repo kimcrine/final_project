@@ -36,9 +36,9 @@ For our project we decided to use Linear Regression.
 * The Zillow data was only available on a county or zip code level, so trying to combine that with data on a latitude/longitude level became a challenge. We were able to work around this using proxy map layers for now.
 
 ## The Team
-[Greg Atkinson](https://www.linkedin.com/in/atkingn67/) - Turner vs Suntrust Tableau visualizations
-[Kim Crine]() - Atlanta Crime Tableau visualizations, Github controller, Heroku deployment
-[Grant Hicks](https://www.linkedin.com/in/grant-hicks-58807383/) - Minorities vs Sale/Rental Price Tableau visualizations
-[Jessica Layne](https://www.linkedin.com/in/jessica-layne/) - Data Insights with Matplotlib and sklearn models
-[Richard Philipose](https://www.linkedin.com/in/richard-phillips-b48716ba/) - Web app development and ML integration
-[Cory Russell](https://www.linkedin.com/in/cory-a-russell-9503481b5/) - Machine learning model to predict rental prices
+* [Greg Atkinson](https://www.linkedin.com/in/atkingn67/) - Turner vs Suntrust Tableau visualizations
+* [Kim Crine]() - Atlanta Crime Tableau visualizations, Github controller, Heroku deployment
+* [Grant Hicks](https://www.linkedin.com/in/grant-hicks-58807383/) - Minorities vs Sale/Rental Price Tableau visualizations
+* [Jessica Layne](https://www.linkedin.com/in/jessica-layne/) - Data Insights with Matplotlib and sklearn models
+* [Richard Philipose](https://www.linkedin.com/in/richard-phillips-b48716ba/) - Web app development and ML integration
+* [Cory Russell](https://www.linkedin.com/in/cory-a-russell-9503481b5/) - Machine learning model to predict rental prices
