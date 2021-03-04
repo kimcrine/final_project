@@ -67,9 +67,9 @@ The zip code with by far the highest median sales price is 30327 which covers We
 
 ![image](https://user-images.githubusercontent.com/70181086/110035033-255d9600-7d09-11eb-8d78-409cdc850469.png)
 
-![image](https://user-images.githubusercontent.com/70181086/110035158-4aea9f80-7d09-11eb-81e9-ad4658a28483.png)
+![image](https://user-images.githubusercontent.com/70181086/110038258-7f605a80-7d0d-11eb-82ff-8aa807e31dcc.png)
 
-![image](https://user-images.githubusercontent.com/70181086/110035096-37d7cf80-7d09-11eb-8a11-0d7e7052d27b.png)
+![image](https://user-images.githubusercontent.com/70181086/110038277-86876880-7d0d-11eb-9a9c-63860604e8b9.png)
 
 4) We found that there was not much of a change in the number of houses listed and the price-to-rent ratio in the zip codes where Turner Field and SunTrust are located during their closings and openings respectively.
 
