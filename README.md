@@ -2,6 +2,8 @@
 
 In this app, we will be building a simple machine learning model using the Metro Atlanta dataset.
 
+images/Rental_Price_Predictor.png![image](https://user-images.githubusercontent.com/70181086/110031592-1bd22f00-7d05-11eb-92f8-0b218aafdb02.png)
+
 ## Introduction
 
 For our final project, we decided to do an analysis and run machine learning models on Atlanta real estate data. The data we used was the Zillow Real Estate Data on Quandl.com. We ran API calls to pull all available Zillow real estate data for all metro Atlanta zip codes. We created an app where users can enter the listing price of a house, the number of bedrooms, and the zip code the house is located in, and it would determine and show the estimated monthly rental price of the house.
